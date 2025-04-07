@@ -1,4 +1,4 @@
-# 🧠 Manna artIA
+# 🧠 Manna ImagIA
 
 Protótipo de sistema inteligente de edição de imagens com geração automática de legendas, sugestões de edição e aplicação de estilos artísticos, usando **modelos de linguagem e visão computacional** com **Transformers + Gradio**.
 
